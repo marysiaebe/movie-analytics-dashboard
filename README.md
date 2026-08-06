@@ -33,11 +33,6 @@ The application enables users to analyze production trends, IMDb ratings, voting
 
 ---
 
-## Data Sources
-ted information.
-
----
-
 ---
 
 ## Authors
