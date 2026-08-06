@@ -32,10 +32,8 @@ The application enables users to analyze production trends, IMDb ratings, voting
 - countrycode
 
 ---
-## Demo
-
+## Demo 
 A short demonstration of the dashboard is available in the `demo/` directory.
----
 
 ## Authors
 
